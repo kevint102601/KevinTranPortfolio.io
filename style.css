@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+
+
+header>h1 {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    color: #c6e2ff;
+    font-size: 50px;
+}
+
+main {
+    background-color: #f9ba84;
+}
+
+.codeimg {
+    height: 300px;
+}
+
+.link {
+    color: black
+}
+
+.footer>h2 {
+    background-color: #f28f93;
+    padding: 0;
+    margin: 0;
+    height: 100px;
+}
